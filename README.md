@@ -1,2 +1,2 @@
 # HackyEaster2016
-Hacky Easter 2016 writeup
+my solutions for the Hacky Easter 2016 CTF
